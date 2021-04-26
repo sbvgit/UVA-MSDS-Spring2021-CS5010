@@ -68,10 +68,10 @@ The plan for this project is to collect the data from the USDA website and pre-p
 
 ## References
 
-Git [Computer Software]. (2021, March 26). Retrieved from https://git-scm.com/
-Matplotlib [Computer Software]. (2021, March 26). Retrieved from https://matplotlib.org/ 
-National Center for Biotechnology Information (2021). PubChem Compound Summary for CID 5282499, Corn syrup. Retrieved April 24, 2021 from https://pubchem.ncbi.nlm.nih.gov/compound/Corn-syrup.
-Numpy [Computer Software]. (2021, January 31). Retrieved from https://numpy.org/ 
-Pandas [Computer Software]. (2021, March 02).  Retrieved from https://pandas.pydata.org/
-Python [Computer Software]. (2020, October 05).  Retrieved from https://www.python.org/ 
-US Department of Agriculture. (2020, October). FoodData Central Download Data. FoodData Central. https://fdc.nal.usda.gov/download-datasets.html. 
+* Git [Computer Software]. (2021, March 26). Retrieved from https://git-scm.com/
+* Matplotlib [Computer Software]. (2021, March 26). Retrieved from https://matplotlib.org/ 
+* National Center for Biotechnology Information (2021). PubChem Compound Summary for CID 5282499, Corn syrup. Retrieved April 24, 2021 from https://pubchem.ncbi.nlm.nih.gov/compound/Corn-syrup.
+* Numpy [Computer Software]. (2021, January 31). Retrieved from https://numpy.org/ 
+* Pandas [Computer Software]. (2021, March 02).  Retrieved from https://pandas.pydata.org/
+* Python [Computer Software]. (2020, October 05).  Retrieved from https://www.python.org/ 
+* US Department of Agriculture. (2020, October). FoodData Central Download Data. FoodData Central. https://fdc.nal.usda.gov/download-datasets.html. 
